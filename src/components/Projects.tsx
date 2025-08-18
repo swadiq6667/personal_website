@@ -8,7 +8,7 @@ const Projects = () => {
       name: "Leave Management (personal project)",
       role: "Python Developer",
       description: "I developed a Leave Management System as a personal project to streamline employee leave tracking and approval processes. The system is built using Django (backend) and React (frontend), with role-based access control for Admin, HR, and Employees.",
-      image: "public/Gemini_Generated_Image_muth8kmuth8kmuth.png",
+      image: "/Gemini_Generated_Image_muth8kmuth8kmuth.png",
       tools: ["Python", "Django", "HTML", "CSS", "JavaScript", "PostgreSQL"],
       results: "This project enhanced my skills in Django, React, REST APIs, and database design. It gave me practical experience in building a real-world HR tool with proper workflows, reports, and user roles.",
       highlights: [
@@ -25,7 +25,7 @@ const Projects = () => {
       name: "CASBIRO - School Management",
       role: "Lead QA Engineer",
       description: "CASBIRO School Management is a software solution designed to handle key academic operations such as student results, attendance, classes, fees, and overall school administration. The system provides two dedicated applications: one for parents to track student progress and another for teachers to manage academic records.",
-      image: "public/Gemini_Generated_Image_mxt306mxt306mxt3.png",
+      image: "/Gemini_Generated_Image_mxt306mxt306mxt3.png",
       tools: ["Selenium", "Python", "Django", "Postman",],
       results: "Reduced testing cycle time by 70% and identified 50+ critical bugs pre-launch",
       highlights: [
@@ -42,7 +42,7 @@ const Projects = () => {
       name: "LedgerGate CMA Academy (Web Application, Mobile App, Dashboard)",
       role: "Lead QA Engineer ",
       description: "Ledger Gate is academic software designed for CMA (Cost and Management Accounting) students. It provides a complete learning platform where students can log in securely, access and study course chapters, watch educational videos, attend online exams, and check their marks and results—all in one place",
-      image: "public/Gemini_Generated_Image_wzjfw0wzjfw0wzjf.png",
+      image: "/Gemini_Generated_Image_wzjfw0wzjfw0wzjf.png",
       tools: ["Selenium", "Figma", "Postman", "Python"],
       results: "students can learn smoothly, attempt exams fairly, and get accurate results, while the system stays secure, fast, and error-free.",
       highlights: [
@@ -60,7 +60,7 @@ const Projects = () => {
       name: "Mobile Banking App QA & Design(personal project)",
       role: "QA Engineer & UX Designer",
       description: "I developed and tested a Mobile Banking Application that enables users to securely manage their finances through their smartphones. The application was designed with a strong focus on UI/UX simplicity, security, and seamless API integration to provide a smooth and reliable banking experience.",
-      image: "public/Gemini_Generated_Image_qwy910qwy910qwy9.png",
+      image: "/Gemini_Generated_Image_qwy910qwy910qwy9.png",
       tools: ["Python", "Figma", "Postman", "django", "react"],
       results: "The Mobile Banking App was successfully developed and tested with Razorpay payment gateway integration, enabling secure transactions such as fund transfers, bill payments, and merchant payments with real-time confirmation.",
       highlights: [
@@ -76,7 +76,7 @@ const Projects = () => {
       name: "(Bokkify App – Booking Services)",
       role: "QA Engineer",
       description: "Bookify – Multi-Service Appointment Booking System. Bookify is a unified platform for discovering service providers and booking appointments across multiple categories—car wash, haircut/salon, and gym/fitness. It supports Customer, Provider, and Admin roles with real-time slot management, secure payments, and automated reminders to reduce no-shows.",
-      image: "public/BOOKIFY.png",
+      image: "/BOOKIFY.png",
       tools: ["Python","Postman", "django", "react"],
       results: "Stable, friction-free booking across categories with accurate slot and capacity handling,Reliable payments with correct handling of success/failure/pending and refund workflows,Lower no-shows via reminder cadence; clean reporting for providers and admins.",
       highlights: [
@@ -92,7 +92,7 @@ const Projects = () => {
       name: "Sahakari – Race Plus",
       role: "QA Engineer & UX Designer",
       description: "Sahakari Race Plus is an educational technology platform and coaching institute founded in 2021. It provides comprehensive coaching for Kerala PSC examinations including CSEB, Kerala Bank, STO, Civil Police Officer, Women CPO, LD Typist, Dairy Farm Instructor, Livestock Inspector, and more. I was responsible for ensuring the platform’s quality, usability, and seamless student experience across web and mobile applications.",
-      image: "public/sahakari race plus.png",
+      image: "/sahakari_race_plus.png",
       tools: ["Selenium", "Postman", "Python", "Figma", "MySQL"],
       results: "Improved app stability and reduced major defects by 65% before release. Enhanced user experience with smoother navigation and reduced load time for student modules.",
       highlights: [
