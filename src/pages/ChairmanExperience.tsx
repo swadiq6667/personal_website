@@ -45,7 +45,7 @@ export default function ChairmanExperience() {
           </p>
 
           <p>
-            Leading a dedicated team, we successfully organized 9 major programs during my tenure.
+            Leading a dedicated team, we successfully organized 7 major programs during my tenure.
             These events ranged from academic workshops and cultural festivals to sports meets and
             social awareness campaigns—each crafted to foster community spirit and enhance campus life.
           </p>
