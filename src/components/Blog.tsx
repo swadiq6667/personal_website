@@ -8,9 +8,9 @@ const Blog = () => {
   const blogPosts = [
     {
       slug: "chairman-experience",
-      title: "Chairman – Parmmekkavu College Union “Euonia” (2023)",
+      title: "Chairman – Parmmekkavu College Union “Euonia” (2022-2023)",
       excerpt:
-        "Elected as Chairman of the Parmmekkavu College Union Euonia in 2023 after leading a successful campaign against two other contenders. Organized and led 9 major programs during my tenure, fostering student engagement and campus development.",
+        "Elected as Chairman of the Parmmekkavu College Union Euonia in 2022-2023 after leading a successful campaign against two other contenders. Organized and led 7 major programs during my tenure, fostering student engagement and campus development.",
       image: "/Gemini_Generated_Image_5l36no5l36no5l36.png",
       date: "2025-08-15",
       readTime: "8 min read",
