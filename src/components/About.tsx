@@ -3,6 +3,7 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const About = () => {
   const skills = [
+    {category: "Product manager", items: ["Product Roadmapping", "SaaS Product Management", "Cross-Functional Collaboration", "Feature Prioritization"] },
     { category: "Testing", items: ["Selenium", "Postman API Testing", "Manual Testing", "Test Automation", "JIRA", "SQL"] },
     { category: "Development", items: ["Python", "Django", "HTML/CSS", "JavaScript"] },
     { category: "Design", items: ["Figma", "Canva", "Poster Designing"] },
@@ -28,7 +29,13 @@ const About = () => {
           <div>
           <p className="text-lg text-slate-300 mb-6 leading-relaxed">
   <strong>
-    QA Engineer with 2+ years of experience in manual and automation testing using Selenium, Postman, and API testing. Proficient in developing Python/Django applications, with strong skills in code analysis, feature implementation, and problem-solving. Experienced in technical communication, leadership, code reviews, and collaborating with clients to translate requirements into functional, high-quality solutions. Also skilled in poster design and creating visually engaging materials. Eager to advance in AI automation, design integration, and take on greater leadership responsibilities.
+    QA Engineer  with 2+ years of experience in manual testing, automation testing (Selenium), API testing (Postman), and end-to-end software quality assurance. Recently promoted in the UAE to a Product Manager / SaaS Implementation role, where I manage product workflows, collaborate with clients, gather requirements, and ensure smooth onboarding and product adoption.
+
+I have hands-on experience developing Python/Django applications, analyzing code, implementing features, and solving technical challenges. I work closely with cross-functional teams—developers, designers, and clients—to translate requirements into functional, high-quality software solutions.
+
+My strengths include technical communication, leadership, user training, product demos, bug analysis, and improving customer experience. I also enjoy creative work such as poster design and visual branding.
+
+Eager to grow further in Product Management, AI automation, SaaS systems, and technical leadership, contributing to impactful digital solutions.
   </strong>
 </p>
             {/* <p className="text-lg text-slate-300 mb-8 leading-relaxed">

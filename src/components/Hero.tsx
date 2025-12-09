@@ -26,10 +26,10 @@ const Hero = () => {
               Mohammed Swadique
             </h1>
             <h2 className="text-2xl md:text-3xl text-blue-400 mb-6">
-              QA Engineer | Automation Tester | Python Enthusiast
+            Product Manager | Python Enthusiast | Buissness Development Manager | Quality Assurance tester
             </h2>
             <p className="text-xl text-slate-300 mb-8 max-w-2xl">
-              Breaking code, building quality — developing, designing, and
+              Building quality,Breaking code — developing, designing, and
               testing to perfection
             </p>
 

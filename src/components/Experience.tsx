@@ -3,14 +3,25 @@ import { Card, CardContent } from "@/components/ui/card";
 const Experience = () => {
   const experiences = [
     {
+  title: "Product Manager",
+  company: "Agua Spark",
+  period: "December 2025 - Present",
+  achievements: [
+    "Lead product planning and coordinate with developers to improve core SaaS features and user workflows.",
+    "Manage client onboarding, product training, and end-to-end software implementation for new customers.",
+    "Analyze customer feedback, identify pain points, and implement improvements to enhance product usability and performance.",
+    "Collaborate closely with QA and development teams, applying debugging and technical understanding to ensure smooth product releases."
+  ]
+  },
+    {
       title: "Senior Test Engineer",
       company: "Agua India",
-      period: "June 2023 - Present",
+      period: "June 2023 - Oct 2025",
       achievements: [
-        "Performed manual and automation testing on multiple projects, including web applications, websites, and software systems such as Agua Spark, CASBIRO School Management, LedgerGate, Sahakari, and Bookify.",
+        "Performed manual and automation testing on multiple projects, including web applications such as Agua Spark, CASBIRO School Management, LedgerGate, Sahakari, and Bookify.",
         "Designed and executed test cases, developed test plans, and managed defect tracking using tools like JIRA, Trello, and Bugzilla.",
-        "Conducted API testing using Postman and automated regression suites using Selenium, ensuring high product quality.",
-        "Collaborated closely with developers to debug issues efficiently, leveraging knowledge of Python and Django for code readability and technical discussions.",
+        "Conducted API testing using Postman and automated regression suites using Selenium.",
+        "Collaborated closely with developers to debug issues efficiently, leveraging knowledge of Python and Django.",
         "Communicated directly with clients to gather feedback, suggest improvements, and ensure project requirements were met.",
         "Contributed to enhancing testing processes with a focus on introducing AI-based automation solutions."
       ]
@@ -20,10 +31,10 @@ const Experience = () => {
       company: "Soften Technologies",
       period: "March 2023 - May 2023",
       achievements: [
-        "Completed a foundational internship that marked the beginning of my career in technology, providing exposure to software development and testing concepts.",
-        "Developed and maintained web applications using Django and Flask, focusing on building features and enhancing user experience.",
-        "Gained valuable experience in debugging, code optimization, and collaborating with development teams.",
-        "This internship helped strengthen my technical understanding and motivated my transition into software testing with a deeper appreciation for code quality and functionality."
+        "Gained foundational experience in software development and testing.",
+        "Developed and maintained web applications using Django and Flask, focusing on building features and improving user experience.",
+        "Built strong skills in debugging, code optimization, and collaborating with development teams.",
+        "This internship strengthened my technical understanding and motivated my transition into software testing."
       ]
     }
   ];
@@ -49,7 +60,7 @@ const Experience = () => {
                     {exp.period}
                   </span>
                 </div>
-                
+
                 <ul className="space-y-3">
                   {exp.achievements.map((achievement, achievementIndex) => (
                     <li key={achievementIndex} className="flex items-start">
