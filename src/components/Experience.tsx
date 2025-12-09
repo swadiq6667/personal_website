@@ -4,7 +4,7 @@ const Experience = () => {
   const experiences = [
     {
   title: "Product Manager",
-  company: "Agua Spark",
+  company: "Agua Spark UAE",
   period: "December 2025 - Present",
   achievements: [
     "Lead product planning and coordinate with developers to improve core SaaS features and user workflows.",
