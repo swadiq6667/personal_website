@@ -3,7 +3,7 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const About = () => {
   const skills = [
-    {category: "Product manager", items: ["Product Roadmapping", "SaaS Product Management", "Cross-Functional Collaboration", "Feature Prioritization"] },
+    {category: "Associate Product Manager", items: ["Product Roadmapping", "SaaS Product Management", "Cross-Functional Collaboration", "Feature Prioritization"] },
     { category: "Testing", items: ["Selenium", "Postman API Testing", "Manual Testing", "Test Automation", "JIRA", "SQL"] },
     { category: "Development", items: ["Python", "Django", "HTML/CSS", "JavaScript"] },
     { category: "Design", items: ["Figma", "Canva", "Poster Designing"] },
@@ -29,14 +29,14 @@ const About = () => {
           <div>
           <p className="text-lg text-slate-300 mb-6 leading-relaxed">
   <strong>
-    QA Engineer  with 2+ years of experience in manual testing, automation testing (Selenium), API testing (Postman), and end-to-end software quality assurance. Recently promoted in the UAE to a Product Manager / SaaS Implementation role, where I manage product workflows, collaborate with clients, gather requirements, and ensure smooth onboarding and product adoption.
+    Associate Product Manager with a strong foundation as a QA Engineer, bringing 2+ years of experience in manual testing, automation testing (Selenium), API testing (Postman), and end-to-end software quality assurance.
 
-I have hands-on experience developing Python/Django applications, analyzing code, implementing features, and solving technical challenges. I work closely with cross-functional teams—developers, designers, and clients—to translate requirements into functional, high-quality software solutions.
+Currently working in the UAE in a product-focused SaaS implementation role, managing product workflows, collaborating with clients, gathering requirements, and ensuring smooth onboarding and product adoption.
 
-My strengths include technical communication, leadership, user training, product demos, bug analysis, and improving customer experience. I also enjoy creative work such as poster design and visual branding.
+Possess hands-on experience in Python and Django development, with the ability to analyze code, implement features, and solve technical challenges. Skilled in working with cross-functional teams to translate business needs into high-quality, user-centric solutions.
 
-Eager to grow further in Product Management, AI automation, SaaS systems, and technical leadership, contributing to impactful digital solutions.
-  </strong>
+Core strengths include client communication, product demos, user training, bug analysis, and improving customer experience. Passionate about growing in Product Management, AI automation, SaaS systems, and technical leadership.
+</strong>
 </p>
             {/* <p className="text-lg text-slate-300 mb-8 leading-relaxed">
               My background includes leadership roles (College Union Chairman) where I led 7+ student initiatives, 

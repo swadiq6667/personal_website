@@ -26,7 +26,7 @@ const Hero = () => {
               Mohammed Swadique
             </h1>
             <h2 className="text-2xl md:text-3xl text-blue-400 mb-6">
-            Product Manager | Python Enthusiast | Buissness Development Manager | Quality Assurance tester
+            Associate Product Manager | Python Enthusiast | Buissness Development Manager | Quality Assurance tester
             </h2>
             <p className="text-xl text-slate-300 mb-8 max-w-2xl">
               Building quality,Breaking code — developing, designing, and
@@ -53,7 +53,7 @@ const Hero = () => {
               </Button>
 
               {/* Fixed Download CV */}
-              <a href="/Swadiqcv.pdf" download>
+              <a href="/Swadiqcv.pdf.pdf" download>
                 <Button
                   size="lg"
                   variant="outline"

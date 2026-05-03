@@ -3,7 +3,7 @@ import { Card, CardContent } from "@/components/ui/card";
 const Experience = () => {
   const experiences = [
     {
-  title: "Product Manager",
+  title: "Associate Product Manager",
   company: "Agua Spark UAE",
   period: "December 2025 - Present",
   achievements: [
